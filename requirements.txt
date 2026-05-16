@@ -1,0 +1,12 @@
+# RL-CloudSched
+# Reinforcement Learning Agent for Cost-Optimal Workload Scheduling
+# Across Heterogeneous Multi-Cloud Spot Markets
+
+gymnasium>=0.29
+numpy>=1.25
+pandas>=2.2
+stable-baselines3>=2.2
+sb3-contrib>=2.2       # For MaskablePPO
+torch>=2.1
+matplotlib>=3.8
+wandb>=0.15
